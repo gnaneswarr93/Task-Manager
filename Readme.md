@@ -1,4 +1,4 @@
-# Task Management App
+# Task Management Website
 
 The **Task Management App** is a simple yet powerful tool to manage your daily tasks. It allows you to create, edit, and delete tasks while assigning priorities and deadlines. This app uses local storage to save your data, ensuring persistence across sessions.
 
